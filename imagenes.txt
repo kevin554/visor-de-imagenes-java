@@ -1,0 +1,1 @@
+{"nombre":"vlcsnap-2017-02-16-22h14m56s840.png","direccion":"C:\\Users\\Usuario\\Pictures\\vlcsnap-2017-02-16-22h14m56s840.png","ancho":640,"alto":386}
